@@ -27,13 +27,13 @@ featured-image: "/images/uidaho-workshop.jpg"
 search: true
 
 # author settings for cc-by, appears in the footer and credits
-author: evan will
+author: eunjeong
 # your github username for link [optional]
-github_username: evanwill
+github_username: genpersonalization
 # year or date published
-pub_year: 2021
+pub_year: 2023
 # location of code, the full url to your github repository
-source-code: https://github.com/evanwill/workshop-template-b
+source-code: https://github.com/genpersonalization/genpersonalization.github.io
 
 ##########
 # URL VARIABLES [optional!!]
