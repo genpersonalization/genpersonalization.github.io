@@ -1,6 +1,6 @@
 ---
-title: Get Started
-nav: Start
+title: Program
+nav: Program
 topics: Template; Basic Config
 ---
 

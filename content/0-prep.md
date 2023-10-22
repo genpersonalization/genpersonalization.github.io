@@ -1,8 +1,11 @@
 ---
-title: Workshop Prep
-nav: Prep
+title: Home
+nav: Home
 topics: GitHub; Optional Software
 ---
+
+Welcome to the website for the MOOMIN workshop, the first workshop on Modular and Open Multilingual NLP, to be held at [EACL 2024 in Malta](https://2024.eacl.org/).
+
 
 To create your own materials using `workshop-template-b`, please set up a free [GitHub account](https://github.com/join) if you do not have one already.
 

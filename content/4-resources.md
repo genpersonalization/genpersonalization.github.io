@@ -1,6 +1,6 @@
 ---
-title: Reference & Resources
-nav: Resources
+title: Organizers
+nav: Organizers
 ---
 
 To learn about using `workshop-template-b`, the content pages of this demo provide documentation and examples (also check the [README](https://github.com/evanwill/workshop-template-b/blob/master/README.md)).
