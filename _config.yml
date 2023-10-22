@@ -15,7 +15,7 @@ title: Personalization in Generative AI @ EACL 2024
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/
 # some options: code-slash file-code gear tools lightblub book bookmark-star
-title-icon: code-slash
+title-icon: # code-slash
 # description, keywords, and image for meta tags
 # these do not visibility appear on the pages, but used for SEO
 description: "Create a workshop website quick and easy!"
