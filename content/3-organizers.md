@@ -3,72 +3,36 @@ title: Organizers
 nav: Organizers
 ---
 
-To learn about using `workshop-template-b`, the content pages of this demo provide documentation and examples (also check the [README](https://github.com/evanwill/workshop-template-b/blob/master/README.md)).
+### Contact
+For inquiries, please contact genpersonalization@gmail.com
 
-Workshop sites using this template:
+### Workshop Organizers
+#### [Ameet Deshpande](), Princeton University
+Ameet Deshpande is a Ph.D. student at Princeton University working on a variety of topics including AI safety, efficiency, and novel techniques to build foundation models.
+His recent work on toxicity of persona-assigned language models has been covered by over 20 news outlets.
+He has published several papers in top-tier NLP and ML venues like ICML, NAACL, and EMNLP.
+He has served on the PC for most *CL conferences since 2019.
 
-- [Demo](https://evanwill.github.io/workshop-template-b/) (this repository)
-- [Go Go GitHub Pages (v.2)](https://evanwill.github.io/go-go-ghpages-b/) (workshop)
-- [Get Started with OpenRefine](https://evanwill.github.io/openrefine-b/) (workshop)
-- [Web Crash Course](https://evanwill.github.io/web-crash-course/) (workshop)
-- [write-md: Markdown and Pandoc for Academic Writing](https://evanwill.github.io/write-md/) (workshop)
-- [web-cites: Web Archiving to Fight Link Rot and Preserve Your Citations](https://evanwill.github.io/web-cites/) (workshop)
-- [Hey API!](https://evanwill.github.io/hey-api/) (workshop)
-- [Web Crash Course](https://evanwill.github.io/web-crash-course/) (workshop)
-- [Try Linux!](https://evanwill.github.io/try-linux/) (workshop)
-- [Make OER!](https://evanwill.github.io/make-oer/) (presentation)
-- [Teaching Tech Hands-on](https://evanwill.github.io/tech-hands-on/) (presentation)
+#### [Karthik Narasimhan](), Princeton University
+Karthik Narasimhan is an assistant professor of Computer Science at Princeton University. His prior research includes the development of autonomous agents for text adventure games, methods for leveraging textual manuals for RL (JAIR 2018, ICML 2021), and techniques to learn with human feedback (AAAI 2021, NeurIPS 2021).
+He has organized the First Workshop on Learning with Natural Language Supervision at ACL 2022.
 
-Other workshop sites an [minimal version of this template](https://github.com/evanwill/workshop-template) (no bootstrap):
+#### [Ashwin Kalyan](), Allen Institute for Artificial Intelligence (AI2)
+Intelligence (AI2)
+Ashwin Kalyan is a research scientist at Allen Institute for Artificial Intelligence (AI2). He has worked on various facets of AI and NLP including decoding algorithms (AAAI 2018, ICML 2020), program synthesis (ICLR 2018, NeurIPS 2021) and mathematical reasoning (EMNLP 2022, NeurIPS 2022, ACL 2022, EMNLP 2021). He co-organized a tutorial — “Deep Learning in Mathematical Reasoning: Recent Advances and Beyond” at IJCAI 2023.
 
-- [get-git](https://evanwill.github.io/get-git/)
-- [hello-arduino](https://evanwill.github.io/hello-arduino/)
-- [clean-your-data](https://evanwill.github.io/clean-your-data/)
-- [go-go gh-pages](https://evanwill.github.io/go-go-ghpages/)
-- [Make @ the MILL](https://uidaholib.github.io/make-at-the-mill/)
+#### [Ashish Sabharwal](), Allen Institute for Artificial Intelligence (AI2)
+Ashish Sabharwal is a Principal Research Scientist at the Allen Institute for AI (AI2). Ashish has co-authored over 135 publications in major journals and conferences, contributed several surveys and tutorials. His research findings have been recognized with best paper awards (AAAI, CP, AKBC), a best student paper award (UAI), and runner-up prizes (UAI, IJCAI-JAIR 5-Year Best). He is a member of AAAI (senior), ACM, and AAAS.
 
-If you need a Bootstrap 4 version, see older [v1.0 release](https://github.com/evanwill/workshop-template-b/releases/tag/v1.0). 
+#### [Diyi Yang](), Stanford University
+Diyi Yang is an assistant professor in the Computer Science Department at Stanford University. Diyi has organized multiple workshops at NLP conferences: Widening NLP Workshops at NAACL 2018 and ACL 2019, Casual Inference workshop at EMNLP 2021, NLG Evaluation workshop at EMNLP 2021, and Shared Stories and Lessons Learned workshop at EMNLP 2022. She also gave a tutorial at ACL 2022 on Learning with Limited Data, and a tutorial at EACL 2023 on Summarizing Conversations.
 
-# Reference
+#### [Joon Sung Park](), Stanford University
+Joon Sung Park is a computer science PhD student in the Human-Computer Interaction and Natural Language Processing groups at Stanford University. His work introduced the concept of, and the techniques for building generative agents -- computational software agents that simulate human behavior. He has organized a UIST workshop on architecting novel interactions with generative AI models.
 
-## Git & GitHub
+#### [EunJeong Hwang](), University of British Columbia
+EunJeong Hwang is a PhD student at the University of British Columbia. Her primary research interests lie in the personalization of large language models, structured reasoning, and analyzing large multimodal models.
 
-[GitHub](https://github.com/) is a popular web service for hosting Git repositories--with benefits!
-It provides a handy web interface for editing and collaborating on repos, as well as, built in project management features and [free static web hosting](https://pages.github.com/) powered by [Jekyll](https://jekyllrb.com/).
-Accounts are free.
-To learn more check out Hello World on [GitHub Guides](https://guides.github.com/) or [GitHub Learning Lab](https://lab.github.com/).
 
-## Markdown
-
-[Markdown](https://daringfireball.net/projects/markdown/) is a standard to simplify writing content for the web. 
-Markdown can be used any where on GitHub and in Jekyll.
-
-- [Mastering Markdown GitHub Guide](https://guides.github.com/features/mastering-markdown/){:target="_blank" rel="noopener"}
-- [GitHub Markdown documentation](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax){:target="_blank" rel="noopener"}
-- [Markdown in a Minute](https://evanwill.github.io/_drafts/notes/markdown-minute.html)
-
-## Bootstrap 5
-
-[Bootstrap](https://getbootstrap.com/) is a CSS framework designed to streamline developing user interfaces for your website.
-
-[Bootstrap Icons](https://icons.getbootstrap.com/) are SVG-based icon set used to add graphics to your content.
-
-## YAML
-
-[YAML](http://www.yaml.org/) is a human readable plain text data format.
-It is used in Jekyll for configuration, site data, and front matter.
-Jekyll projects are [configured](https://jekyllrb.com/docs/configuration/) using the "_config.yml" file.
-
-## Liquid
-
-[Liquid](http://shopify.github.io/liquid/) is a flexible template language.
-[In Jekyll]((https://jekyllrb.com/docs/liquid/) it allows you to layout pages built from modular components and data, using the "_includes", "_layouts", and "_data" directories.
-Liquid includes features such as operators, loops, and filters to manipulate raw content. 
-Liquid statements are enclosed by {% raw %}`{%  %}`{% endraw %} and variables in {% raw %}`{{  }}`{% endraw %}.
-
-## Sass  
-
-[Sass](http://sass-lang.com/) is a CSS extension / preprocessor. 
-All normal CSS is valid SCSS, but Sass adds many powerful functions and programmatic features. 
-Writing SCSS is often easier and more sensible, for example by supporting nesting, variables, and operators. 
-Jekyll lets you write SASS in modular chucks called partials, in the "_sass" directory, that will be combined and compiled into normal CSS files when the site is built.
+### Program Committee
+A list of program committee members will be available shortly.
