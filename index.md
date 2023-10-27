@@ -46,6 +46,15 @@ In keeping with this interdisciplinary focus, our workshop will consider diversi
 We hope that \workshop{} will be the start of a workshop that runs for multiple years and we plan to rotate the future iterations between *CL venues and general ML venues like ICML, ICLR, and NeurIPS.
 We see our workshop as a key step in ensuring that personalization adoption by the rest of the community is successful and safe.
 
+
+### Invited Speakers
+
+![Hannaneh Hajishirzi](invited_speakers/Hannaneh-Hajishirzi.jpeg)
+[Hannaneh Hajishirzi](), Professor at UW and Senior Research Manager at AI2
+
+Hannaneh Hajishirzi is a Professor at the University of Washington and a Senior Research Manager at the Allen Institute for AI. Her honors include the NSF CAREER Award, Sloan Fellowship, and Allen Distinguished Investigator Award.
+
+
 {% include toc.html %}
 
 ------
