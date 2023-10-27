@@ -52,7 +52,7 @@ We see our workshop as a key step in ensuring that personalization adoption by t
 
 {% include toc.html %}
 
-{% include card.html %}
+{% include card.html text="Some interesting text" header="Example card" %}
 
 ------
 
