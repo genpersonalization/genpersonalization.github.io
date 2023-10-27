@@ -49,7 +49,7 @@ We see our workshop as a key step in ensuring that personalization adoption by t
 
 ### Invited Speakers
 
-![Hannaneh Hajishirzi](images/invited_speakers/Hannaneh-Hajishirzi.jpeg){: width="250" }
+![Hannaneh Hajishirzi](images/invited_speakers/Hannaneh-Hajishirzi.jpeg){: width="100" height="150" }
 [Hannaneh Hajishirzi](), Professor at UW and Senior Research Manager at AI2
 
 Hannaneh Hajishirzi is a Professor at the University of Washington and a Senior Research Manager at the Allen Institute for AI. Her honors include the NSF CAREER Award, Sloan Fellowship, and Allen Distinguished Investigator Award.
