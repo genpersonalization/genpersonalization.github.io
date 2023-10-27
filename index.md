@@ -52,6 +52,8 @@ We see our workshop as a key step in ensuring that personalization adoption by t
 
 {% include toc.html %}
 
+{% include card.html %}
+
 ------
 
 {% include template/credits.html %}
