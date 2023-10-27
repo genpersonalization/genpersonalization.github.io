@@ -1,17 +1,43 @@
 {% comment %}
     Add an auto generated TOC based on the front matter of content pages 
 {% endcomment %}
-<div class="row justify-content-center">
-    <div class="m-3 col-md-8" >
-        <div class="card">
-            <div class="card-body">
-                <h2 class="h4 card-title">Contents:</h2>
-                <ul>
-                    {% for section in site.html_pages %}{% if section.nav %}
-                    <li><a href="{{ section.url | relative_url }}">{% if section.nav == true %}{{ section.title }}{% else %}{{ section.nav }}{% endif %}</a> {% if section.topics %}<small>| topics: {{ section.topics }}</small>{% endif %}</li>
-                    {% endif %}{%- endfor -%}
-                </ul>
+
+
+<div class="row">
+    <div class="col-sm-6">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h2 class="panel-title"><a href="https://www.malihealikhani.com">Malihe Alikhani</a></h2>Northeastern University
+            </div>
+            <div class="panel-body">
+                <b>TBD</b><br/>
+                <img src="images/invited_speakers/Hannaneh-Hajishirzi.jpeg" alt="logo" style="float:left;width:100px;height:100px;" hspace="10" vspace="10">
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-6">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h2 class="panel-title"><a href="https://pages.ucsd.edu/~bkbergen/">Benjamin Bergen</a></h2>UCSD
+            </div>
+            <div class="panel-body">
+                <b>TBD</b><br/>
+                <img src="images/invited_speakers/Hannaneh-Hajishirzi.jpeg" alt="logo" style="float:left;width:100px;height:100px;" hspace="10" vspace="10">
             </div>
         </div>
     </div>
 </div>
+<!--<div class="row justify-content-center">-->
+<!--    <div class="m-3 col-md-8" >-->
+<!--        <div class="card">-->
+<!--            <div class="card-body">-->
+<!--                <h2 class="h4 card-title">I:</h2>-->
+<!--                <ul>-->
+<!--                    {% for section in site.html_pages %}{% if section.nav %}-->
+<!--                    <li><a href="{{ section.url | relative_url }}">{% if section.nav == true %}{{ section.title }}{% else %}{{ section.nav }}{% endif %}</a> {% if section.topics %}<small>| topics: {{ section.topics }}</small>{% endif %}</li>-->
+<!--                    {% endif %}{%- endfor -%}-->
+<!--                </ul>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</div>-->
