@@ -52,7 +52,7 @@ We see our workshop as a key step in ensuring that personalization adoption by t
 
 {% include toc.html %}
 
-{% include card.html text="Some interesting text" header="Example card" %}
+{% include card.html img="images/invited_speakers/Hannaneh-Hajishirzi.jpeg" title="Professor at UW and Senior Research Manager at AI2" header="Hannaneh Hajishirzi" text="Hannaneh Hajishirzi is a Professor at the University of Washington and a Senior Research Manager at the Allen Institute for AI. Her honors include the NSF CAREER Award, Sloan Fellowship, and Allen Distinguished Investigator Award." %}
 
 ------
 
