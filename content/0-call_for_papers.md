@@ -34,7 +34,7 @@ Authors are invited to submit original and unpublished research papers in the fo
 
 *  Full papers (up to 8 pages) for substantial contributions
 *  Short papers (up to 4 pages) for ongoing or preliminary work.
-All submissions must be in PDF format, submitted electronically via OpenReview and should follow the EACL 2024 formatting guidelines (following the ARR CfP: use the official ACL style templates, which are available here).
+All submissions must be in PDF format, submitted electronically via Softconf and should follow the EACL 2024 formatting guidelines (following the ARR CfP: use the official ACL style templates, which are available here).
 
 We also intend to invite papers accepted to Findings to reach out to the organizing committee of Personalization of Generative AI to present their papers at the workshop, if in line with the topics as described above.
 
