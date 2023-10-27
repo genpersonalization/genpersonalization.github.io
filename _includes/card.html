@@ -16,8 +16,13 @@
 
 {%- endcomment -%}
 <div class="card mb-3{% if include.width %} feature-w-{{ include.width }}{% endif %}{% if include.centered %} mx-auto{% endif %}{% if include.extra-class %} {{ include.extra-class }}{% endif %}">
-{% if include.img %}<img class="card-img-top" src="{{ '/images/' | append: include.img | relative_url }}" alt="{{ include.alt | default: 'Card image' }}">{% endif %}
-{% if include.header %}<div class="h4 card-header">{{ include.header }}</div>{% endif %}
+<!--{% if include.img %}<img class="card-img-top" src="{{ '/images/' | append: include.img | relative_url }}" alt="{{ include.alt | default: 'Card image' }}" style="width: 100px; height: 100px">{% endif %}-->
+{% if include.header %}
+    <div class="h4 card-header">
+        {% if include.img %}<img class="card-img-top" src="{{ '/images/' | append: include.img | relative_url }}" alt="{{ include.alt | default: 'Card image' }}" style="width: 100px; height: 100px">{% endif %}
+        {{ include.header }}
+    </div>
+    {% endif %}
 <div class="card-body">
 {% if include.title %}<h5 class="card-title">{{ include.title }}</h5>{% endif %}
 <div class="card-text">
