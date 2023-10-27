@@ -7,7 +7,7 @@ layout: page
 
 {% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
 
-Welcome to the website for the 1st Personalization of Generative AI workshop, to be held at EACL 2024 in Malta.
+Welcome to the website for the 1st Personalization of Generative AI (PERSONALIZE) workshop, to be held at EACL 2024 in Malta.
 
 This website is still under construction.
 
