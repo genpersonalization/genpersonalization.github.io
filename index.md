@@ -5,8 +5,6 @@ layout: page
 
 [//]: # (# Bootstrap Workshop Template!)
 
-[//]: # ({% include figure.html img="workshop_picture.png" alt="PERSONALIZE@EACL2024" caption="" width="100%" %})
-
 Welcome to the website for the 1st Personalization of Generative AI (PERSONALIZE) workshop, to be held at EACL 2024 in Malta.
 
 This website is still under construction.
