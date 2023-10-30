@@ -22,7 +22,6 @@ Despite this progress, there are three key challenges being overlooked: technica
 
 TBD
 
-[//]: # ({% include toc.html %})
 
 
 ### Panelists
