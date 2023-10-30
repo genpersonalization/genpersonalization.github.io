@@ -20,9 +20,13 @@ Despite this progress, there are three key challenges being overlooked: technica
 
 ### Invited Speakers
 
-{% include toc.html %}
+TBD
+[//]: # ({% include toc.html %})
 
 
+### Panelists
+
+TBD
 ------
 
 {% include template/credits.html %}
