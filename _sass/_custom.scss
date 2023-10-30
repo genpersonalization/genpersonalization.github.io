@@ -6,18 +6,18 @@
 
 .masthead {
   height: 250px;
-  background-image: url("https://genpersonalization.github.io/images/workshop_picture_2.png");
+  background-image: linear-gradient(rgba(255,255,255,0.3), rgba(255,255,255,0.4)), url("https://genpersonalization.github.io/images/workshop_picture.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .fw-light{
-  font-weight: 500!important;
-  color: gold;
+  font-weight: 650!important;
+  color: black;
 }
 
 .lead{
-  font-weight: 300!important;
-  color: gold;
+  font-weight: 450!important;
+  color: black;
 }
