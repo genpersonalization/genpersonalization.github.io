@@ -5,7 +5,7 @@ nav: Call for Papers
 
 We invite submissions to the first edition of the Personalization of Generative AI workshop, to be held at EACL 2024 on March 21 or 22, 2024.
 
-Please submit through SoftConf here: [Link](https://softconf.com/eacl2024/PERSONALIZE-2024/)
+**Please submit through SoftConf here: [Link](https://softconf.com/eacl2024/PERSONALIZE-2024/)**
 
 ### Important Dates
 * Workshop paper due: December 18, 2024
