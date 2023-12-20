@@ -8,7 +8,7 @@ We invite submissions to the first edition of the Personalization of Generative 
 **Please submit through SoftConf here: [Link](https://softconf.com/eacl2024/PERSONALIZE-2024/)**
 
 ### Important Dates
-* Workshop paper due: December 18, 2024
+* Workshop paper due: January 10, 2024
 * ARR submission deadline (for pre-reviewed ARR & main conference submissions): January 17, 2024
 * Notification of acceptance: January 20, 2024
 * Camera-ready papers due: January 30, 2024
