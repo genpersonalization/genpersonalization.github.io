@@ -10,7 +10,7 @@ We invite submissions to the first edition of the Personalization of Generative 
 ### Important Dates
 * Workshop paper due: January 10, 2024
 * ARR submission deadline (for pre-reviewed ARR & main conference submissions): January 17, 2024
-* Notification of acceptance: January 20, 2024
+* Notification of acceptance: January 25, 2024
 * Camera-ready papers due: January 30, 2024
 * Workshop dates: March 21-22, 2024
 
