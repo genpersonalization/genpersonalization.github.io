@@ -23,16 +23,6 @@ Despite this progress, there are three key challenges being overlooked: technica
 The PERSONALIZE workshop aims to serve as a platform for diverse stakeholders to explore these multifaceted challenges and engage in discussions and guide the future of personalized generative AI.
 
 
-### Invited Speakers
-
-TBD
-
-
-
-### Panelists
-
-TBD
-
 
 ------
 
