@@ -10,7 +10,7 @@ nav: Program
 
 **09:15 - 09:45** Invited Talk by <a href="https://fbarez.github.io/">Fazl Barez</a>
 
-**09:45 - 10:15** Invited Talk by <a href="https://sites.google.com/view/beirami">Ahmad Beirami</a>
+**09:45 - 10:15** TBA 
 
 **10:15 - 11:00** Coffee Break
 
@@ -22,9 +22,9 @@ nav: Program
 
 **15:30 - 16:00** Coffee Break
 
-**16:00 - 16:30** Invited Talk by <a href="http://tanmay.one">Tanmay Rajpurohit</a>
+**16:00 - 16:30** Invited Talk by <a href="https://sites.google.com/view/beirami">Ahmad Beirami</a>
 
-**16:30 - 17:00** Best Paper Talks (General & Theme)
+**16:30 - 17:00** Invited Talk by <a href="http://tanmay.one">Tanmay Rajpurohit</a>
 
 **17:00 - 17:30** Virtual poster session
 
