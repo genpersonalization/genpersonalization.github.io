@@ -30,7 +30,6 @@ nav: Program
 
 ### Virtual conference links
 
-<a href="https://us06web.zoom.us/j/81757085078?pwd=aEb5a1KcnnEVJnTMr5Tr1W1dGETfMM.1">Zoom</a>, 
 <a href="https://underline.io/events/441/sessions?eventSessionId=17302&searchGroup=lecture">Underline</a>, 
 <a href="https://app.gather.town/app/XDzSQW1b0mpTTAYr/EACL2024?spawnToken=896yfUoCTUagCYUcnlGW">Gathertown</a>
 
