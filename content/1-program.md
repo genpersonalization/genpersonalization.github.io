@@ -14,7 +14,7 @@ nav: Program
 
 **10:15 - 11:00** Coffee Break
 
-**11:00 - 12:00** Panel discussion (<a href="https://myracheng.github.io">Myra Cheng</a>, <a href="https://www.linkedin.com/in/leonardo-ranaldi-848645175/?originalSubdomain=it">Leonardo Ranaldi</a>, <a href="https://www.marcovalentino.net">Marco Valentino</a>, <a href="https://fenchri.github.io">Fenia Christopoulou</a>)
+**11:00 - 12:00** Panel discussion (<a href="https://myracheng.github.io">Myra Cheng</a>, <a href="https://www.linkedin.com/in/leonardo-ranaldi-848645175/?originalSubdomain=it">Leonardo Ranaldi</a>, <a href="https://www.marcovalentino.net">Marco Valentino</a>, <a href="https://fenchri.github.io">Fenia Christopoulou</a>, <a href="https://uccollab.github.io">Simone Balloccu</a>)
 
 **12:00 - 14:00** Lunch Break
 
