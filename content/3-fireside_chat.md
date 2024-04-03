@@ -4,13 +4,14 @@ nav: Fireside
 #topics: Template; Basic Config
 ---
 
-## Fireside chat -- Both sides of the coin, tech and legal aspects of AI
+## Fireside chat with Dr. Tanmay Rajpurohit
+### Both sides of the coin, tech and legal aspects of AI
 
 {% include fireside.html %}
 
 **Ameet Deshpande**: Given your expertise in both the technical and legal aspects of LLMs, what is your opinion on the progress made on the legislation and policy surrounding AI?
 
-**Tanmay Rajpurohit**: Progress is steady, but lags behind rapid innovation. Commercialization and safety concerns raise the urgency, a burden companies must bear, not researchers. The question remains: how much do companies prioritize safety resources compared to training? Finally, legislation struggles to keep pace due to a knowledge gap, lawyers don't understand AI and AI researchers do not understand law.
+**Dr. Tanmay Rajpurohit**: Progress is steady, but lags behind rapid innovation. Commercialization and safety concerns raise the urgency, a burden companies must bear, not researchers. The question remains: how much do companies prioritize safety resources compared to training? Finally, legislation struggles to keep pace due to a knowledge gap, lawyers don't understand AI and AI researchers do not understand law.
 
 **Ameet**: Who should the onus for safe interaction with AI systems be on?
 
