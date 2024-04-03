@@ -8,6 +8,9 @@ nav: Fireside chat (Tanmay)
 
 *Companies are ignoring AI safety because they are ignoring mathematics.*
 
+### Photo
+{% include fireside.html %}
+
 **Ameet**: Given your expertise in both the technical and legal aspects of LLMs, what is your opinion on the progress made on the legislation and policy surrounding AI?
 
 **Tanmay**: Progress is steady, but lags behind rapid innovation. Commercialization and safety concerns raise the urgency, a burden companies must bear, not researchers. The question remains: how much do companies prioritize safety resources compared to training? Finally, legislation struggles to keep pace due to a knowledge gap, lawyers don't understand AI and AI researchers do not understand law.
@@ -40,6 +43,3 @@ Bias is a fundamental problem. The way these models are trained using personas a
 **Ameet**: On a similar note, what is your opinion on how legislative stakeholders are treating this?
 
 **Tanmay**: Legislators are doing a good job so far, especially with initiatives like executive orders and the EU Act. Companies are at least starting to talk about AI safety, a shift from last year's complete evasiveness, particularly after the OpenAI fiasco. Perhaps, we will see the development of smaller, customized models instead of a one-size-fits-all approach. While resources may not be being fully allocated yet, at least there's some dialogue happening.
-
-### Photo
-{% include fireside.html %}
