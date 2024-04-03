@@ -8,7 +8,6 @@ nav: Fireside chat (Tanmay)
 
 *Companies are ignoring AI safety because they are ignoring mathematics.*
 
-### Photo
 {% include fireside.html %}
 
 **Ameet**: Given your expertise in both the technical and legal aspects of LLMs, what is your opinion on the progress made on the legislation and policy surrounding AI?
